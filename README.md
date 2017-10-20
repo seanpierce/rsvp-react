@@ -12,4 +12,4 @@ $ npm start
 Visit <a href="http://localhost:3000/">localhost:3000</a> in your browser.
 
 ### See It Live
-Visit <a href="https://seanpierce.github.io/rsvp-react/">seanpierce.github.io/rsvp-react</a> to see run the application live.
+Visit <a href="https://seanpierce.github.io/rsvp-react/">seanpierce.github.io/rsvp-react</a> to run the application live.
